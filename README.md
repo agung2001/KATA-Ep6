@@ -1,5 +1,7 @@
 # AsciiDoc Book Template
 
+![](img/cover.jpg)
+
 ## Generate the book
 - Generate Epub/HTML/PDF : `./bin/export-{FORMAT}.sh`
 - Watch file change (epub/html/pdf) : `./bin/watch.sh {FORMAT}`
