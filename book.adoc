@@ -1,0 +1,20 @@
+= Book Template 1.0
+:author: Muhammad Agung Sundoro
+:revnumber: 1.0
+:doctype: book
+:data-uri: {docdir}
+:toc:
+:icons: font
+:data-uri:
+:lang: id
+:experimental:
+:sectnums:
+:sectnumlevels: 2
+
+include::chapters/preface.adoc[]
+
+include::ch01.adoc[]
+
+:sectnums!:
+
+include::chapters/references.adoc[]

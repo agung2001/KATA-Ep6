@@ -1,0 +1,11 @@
+[preface]
+== Preface
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices, nisi vel faucibus mollis, elit enim malesuada odio, eget fringilla ligula risus sit amet enim. Nulla gravida, dolor in congue volutpat, lorem felis elementum mauris, eget dapibus urna metus vestibulum neque. Praesent at felis odio. Ut dictum ultricies tellus, vitae egestas nisl lobortis et. Donec pretium nibh nunc, eget congue urna viverra sit amet. Etiam in ante et metus interdum pharetra. Etiam sodales nisl eros, quis tempus ligula auctor quis. In dapibus est ut interdum faucibus. Nulla ultricies, leo sit amet pretium euismod, sapien turpis pellentesque magna, nec iaculis risus risus sed dui.
+
+Pellentesque sit amet euismod mauris. Nam gravida dui est, nec bibendum nisi dignissim at. Maecenas lobortis nibh et lectus semper ullamcorper. Nullam sagittis lectus non dignissim elementum. In viverra, lectus eu euismod volutpat, lorem risus accumsan ex, id interdum sapien quam a eros. Nulla pretium sollicitudin dolor, vel varius justo sollicitudin vel. Nunc elementum risus sit amet aliquet aliquet. Ut felis tellus, sodales vel facilisis eu, consequat non lectus. Sed at velit mollis est rutrum rhoncus. Mauris risus urna, ultrices eget lectus sed, sagittis viverra eros. Fusce mollis laoreet lacus in tincidunt. Nunc sit amet blandit turpis.
+
+Nullam in libero sit amet leo finibus mattis viverra at eros. Aenean tempor nisi ut enim maximus blandit. Sed gravida augue vitae nibh ullamcorper tincidunt. Nulla tincidunt quam non libero viverra posuere. In faucibus mattis bibendum. Integer in blandit massa, varius semper neque. Praesent et est congue, hendrerit arcu ac, interdum eros. Maecenas ac rutrum orci. Curabitur at finibus tortor, sed gravida sem. Proin scelerisque orci vitae ligula lobortis lobortis. Nunc fringilla id turpis vitae posuere. Nam justo elit, blandit in eleifend in, efficitur ut mi. Etiam ut malesuada lectus.
+
+.My YouTube Channel
+image::img/qr.png[QR Code, 250,float="center",align="center"]
