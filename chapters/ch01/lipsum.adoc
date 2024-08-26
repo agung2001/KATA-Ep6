@@ -1,8 +1,19 @@
 === What is Lorem Ipsum?
 
+This is *bold text*, and this is _italic text_.
+Here is `monospace text` and a link to link:https://agungsundoro.com[My Website].
+
 Lorem ipsum dolor sit amet ^<<R1>>^, consectetur adipiscing elit. Proin aliquam elit eu ipsum venenatis, at volutpat sem scelerisque. In hac habitasse platea dictumst. Quisque nunc risus, porttitor ac ultricies id, dictum eu sem. Curabitur consectetur massa eros, quis aliquam ipsum suscipit eget. Aenean egestas tellus vel turpis porta vestibulum. Mauris at magna pharetra, commodo lectus ac, faucibus nunc. Curabitur venenatis orci non ante tristique, vel placerat tellus ullamcorper. Nulla molestie, quam eu porttitor vehicula, lorem augue tempus lectus, non consectetur augue nunc quis metus. Suspendisse potenti. Fusce vel felis tellus. Nullam volutpat, dui quis tristique aliquam, nisl lacus tristique nibh, sagittis facilisis sem quam id odio.footnote:[My Website: https://agungsundoro.com]
 
 Nam volutpat tempor viverra. Nullam cursus non lectus vitae pretium. Donec vel posuere massa. Integer in nulla lacus. Vestibulum molestie commodo feugiat. Mauris cursus nunc at elit dapibus, eget tempor enim aliquam. Etiam mattis faucibus eros, vitae aliquam dolor auctor quis. Sed eget ultrices libero, et tristique nisi. In quis tortor justo.
 
 Aliquam hendrerit neque felis, a euismod nisl molestie sit amet. Sed finibus, augue in mollis rutrum, eros mauris vulputate elit, et fringilla dolor lorem non magna. Nulla ac posuere elit. Praesent ac dapibus dui. Integer egestas efficitur sodales. Vivamus erat lacus, consectetur feugiat blandit non, ultrices id nulla. Vivamus faucibus nisi eros, quis tincidunt odio pellentesque ac.
 
+|===
+|Column 1 |Column 2 |Column 3
+
+|Row 1, Col 1 |Row 1, Col 2 |Row 1, Col 3
+|Row 2, Col 1 |Row 2, Col 2 |Row 2, Col 3
+|===
+
+<<<
