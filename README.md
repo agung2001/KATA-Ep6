@@ -12,5 +12,6 @@
   - [GitHub - asciidoctor/asciidoctor-epub3](https://github.com/asciidoctor/asciidoctor-epub3) 
   - [Asciidoctor Diagram](https://github.com/asciidoctor/asciidoctor-diagram)
   - [Asciidoctor PDF](https://github.com/asciidoctor/asciidoctor-pdf)
+- [Cover Book Mockup](https://unblast.com/free-standing-hard-cover-book-mockup-psd/)
 - [entr Packaage](https://launchpad.net/ubuntu/+source/entr)
 - [GitHub - rochacbruno/asciidoctor-book-template](https://github.com/rochacbruno/asciidoctor-book-template) 
