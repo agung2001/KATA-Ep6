@@ -2,3 +2,5 @@
 == Introduction
 
 include::chapters/ch01/lipsum.adoc[]
+include::chapters/ch01/lists.adoc[]
+include::chapters/ch01/blocks.adoc[]

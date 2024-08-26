@@ -1,0 +1,29 @@
+=== Lists
+
+==== Unordered List:
+
+* Item 1
+* Item 2
+  * Sub-item 1
+  * Sub-item 2
+
+==== Ordered List:
+
+. First item
+. Second item
+  .. Sub-item A
+  .. Sub-item B
+
+
+==== Check List
+
+* [*] checked
+* [x] also checked
+* [ ] not checked
+* normal list item
+
+==== Description List
+
+Term 1:: Definition of term 1.
+Term 2:: Definition of term 2.
+

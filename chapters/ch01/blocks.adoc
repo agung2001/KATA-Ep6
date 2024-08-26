@@ -1,0 +1,21 @@
+=== Blocks
+
+==== Quote
+[quote, Author Name, Source]
+____
+This is a block quote.
+____
+
+==== Source Code Block
+[source,python]
+----
+def hello_world():
+    print("Hello, World!")
+----
+
+==== Admonition
+[NOTE]
+====
+This is an important note.
+====
+
