@@ -17,4 +17,5 @@ include::ch01.adoc[]
 
 :sectnums!:
 
-include::chapters/references.adoc[]
+[appendix]
+include::chapters/reference.adoc[]
