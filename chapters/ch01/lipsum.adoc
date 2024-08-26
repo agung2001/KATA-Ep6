@@ -10,10 +10,19 @@ Nam volutpat tempor viverra. Nullam cursus non lectus vitae pretium. Donec vel p
 Aliquam hendrerit neque felis, a euismod nisl molestie sit amet. Sed finibus, augue in mollis rutrum, eros mauris vulputate elit, et fringilla dolor lorem non magna. Nulla ac posuere elit. Praesent ac dapibus dui. Integer egestas efficitur sodales. Vivamus erat lacus, consectetur feugiat blandit non, ultrices id nulla. Vivamus faucibus nisi eros, quis tincidunt odio pellentesque ac.
 
 |===
-|Column 1 |Column 2 |Column 3
+|Shortcut |Purpose
 
-|Row 1, Col 1 |Row 1, Col 2 |Row 1, Col 3
-|Row 2, Col 1 |Row 2, Col 2 |Row 2, Col 3
+|kbd:[F11]
+|Toggle fullscreen
+
+|kbd:[Ctrl+T]
+|Open a new tab
+
+|menu:View[View > Zoom In]
+|Zoom In
+
+|btn:[OK]
+|Button Ok
 |===
 
 <<<
