@@ -19,5 +19,3 @@ def hello_world():
 This is an important note.
 ====
 
-<<<
-
