@@ -10,6 +10,8 @@
 :experimental:
 :sectnums:
 :sectnumlevels: 2
+:chapter-signifier: Chapter
+:appendix-caption: Appendix
 
 include::chapters/preface.adoc[]
 
