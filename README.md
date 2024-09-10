@@ -6,6 +6,9 @@
 - Generate Epub/HTML/PDF : `./bin/export-{FORMAT}.sh`
 - Watch file change (epub/html/pdf) : `./bin/watch.sh {FORMAT}`
 
+## Tutorial (Bahasa Indonesia)
+[![Watch the video](https://img.youtube.com/vi/UOgVr1eO-wo/maxresdefault.jpg)](https://www.youtube.com/watch?v=UOgVr1eO-wo)
+
 ## Resource
 - [Asciidoctor](http://asciidoctor.org)
   - [Quick guide on syntaxes](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
